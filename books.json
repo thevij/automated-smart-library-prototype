@@ -1,0 +1,42 @@
+[
+  {
+    "id": "B001",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fiction",
+    "description": "Bilbo Baggins is swept into an epic quest to reclaim a dwarf kingdom from a dragon.",
+    "slot": 0
+  },
+  {
+    "id": "B002",
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "description": "A dystopian vision of a totalitarian future where Big Brother watches everyone.",
+    "slot": 1
+  },
+  {
+    "id": "B003",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Fiction",
+    "description": "A witty story of love and social standing in Georgian England.",
+    "slot": 2
+  },
+  {
+    "id": "B004",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "description": "An accessible tour of cosmology, black holes, and the nature of time.",
+    "slot": 3
+  },
+  {
+    "id": "B005",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": "Science",
+    "description": "A landmark explanation of evolution from the gene's point of view.",
+    "slot": 4
+  }
+]
